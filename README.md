@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Hi, my name is Claire and I am a front-end developer
+
+![Claire's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctrlclaire&theme=dracula&show_icons=true)
+
+
 <!--
 **ctrlclaire/CtrlClaire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
